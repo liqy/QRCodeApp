@@ -24,6 +24,12 @@ import permissions.dispatcher.OnShowRationale;
 import permissions.dispatcher.PermissionRequest;
 import permissions.dispatcher.RuntimePermissions;
 
+/**http://note.youdao.com/noteshare?id=ca5cf6fa9ac0bdc7c4d78904ac7a8897&sub=WEBed6bf4b399237a6d3eef98147674b258
+ *
+ * http://note.youdao.com/noteshare?id=a5d271f02b4cce6580c4e401b59c7586&sub=WEB4c88e9bd63df5162f55b6f2ba1e2f001
+ *
+ */
+
 
 @RuntimePermissions//生成工具类
 public class MainActivity extends AppCompatActivity implements QRCodeView.Delegate {
